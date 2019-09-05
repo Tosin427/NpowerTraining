@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.fullContainer {
+    /* background-color: aquamarine; */
+    margin-top: 20px;
+}
+
+.right-information {
+    background-color: rgb(236, 236, 236, 0.5);
+    /* border: 1px solid grey; */
+}
+
+.textarea {
+    padding-left: 50px;
+    
+}
+
+.picturearea .picture{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.secondDiv {
+    padding-top: 20px;
+}
+
+.footerBg{
+    background-color: black;
+    margin-top: 50px;
+}
+
+.arrange {
+    margin-top: 50px;
+}
+
+.footerBg h4{
+    color: white;
+}
+
+.secondPart {
+    background-color: brown;
+}
+
+.boxedSide {
+    border: 1px solid red;
+}
